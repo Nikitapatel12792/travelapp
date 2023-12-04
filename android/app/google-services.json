@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1002977013267",
+    "project_id": "escaping-plan",
+    "storage_bucket": "escaping-plan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002977013267:android:fa4726eae86551196a19e6",
+        "android_client_info": {
+          "package_name": "com.escapingplan.escapingplan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDptLudO6cE2VpcXjN-oHizYK0Iwn1ut6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
